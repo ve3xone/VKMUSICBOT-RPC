@@ -1,0 +1,1 @@
+https://oauth.vk.com/authorize?client_id=6829848&scope=status&response_type=token&v=5.92
