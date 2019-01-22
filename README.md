@@ -15,7 +15,7 @@
 #### Получение токена
 ###### Первый способ:
 1. Переходим по [ссылке](https://oauth.vk.com/authorize?client_id=6829848&scope=status&response_type=token&v=5.92 "ссылке")
-2. Копируем токен
+2. Копируем токен (&access_token=**00000**&expires...)
 
 ###### Второй способ:
 1. [Создаём](https://vk.com/editapp?act=create "Создаём") приложение ВК (Выбираем **Standalone-приложение**)
